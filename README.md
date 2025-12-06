@@ -156,8 +156,7 @@ mass-transfer-packed-tower-ml/
 │   └── predictions_packed.csv          # Model predictions
 │
 ├── notebooks/                          # Optional notebooks for EDA
-├── docs/                               # Report, diagrams, presentation
-
+├── docs/                               
 ```
 ---
 

@@ -31,7 +31,7 @@ A full numerical simulator was developed using Python to model:
 - NTU/HTU calculations
 - Outlet gas & liquid composition profiles
 
-A synthetic dataset (20–50k samples) was generated using these physics-based simulations.
+A synthetic dataset (20–30 samples) was generated using these physics-based simulations.
 Machine learning models were then trained to predict kLa, NTU, HTU, and outlet concentrations, enabling data-driven performance evaluation.
 
 ---

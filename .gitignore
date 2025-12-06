@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Large data files
+data/raw/*
+data/synthetic/*.csv
+models/*.pkl
+outputs/*
+
+# OS specific
+.DS_Store
+Thumbs.db

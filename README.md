@@ -1,8 +1,10 @@
-🧪 Mass Transfer Simulation & Machine Learning for Packed Absorption Towers
+# 🧪 Mass Transfer Simulation & Machine Learning for Packed Absorption Towers
 
 A complete project integrating chemical engineering mass-transfer modeling, numerical simulation, and machine learning to predict packed tower performance parameters.
 
-📌 Table of Contents
+---
+
+## 📌 Table of Contents
 
 <a href="#overview">Overview</a>
 

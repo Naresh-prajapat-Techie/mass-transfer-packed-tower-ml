@@ -112,10 +112,7 @@ mass-transfer-packed-tower-ml/
 │   └── poly2_model_packed.pkl          # Polynomial Regression model
 │
 ├── outputs/
-│   └── predictions_packed.csv          # Model predictions
-│
-├── notebooks/                          # Optional notebooks for EDA
-├── docs/                               
+│   └── predictions_packed.csv          # Model predictions                              
 ```
 
 

@@ -135,6 +135,7 @@ GitHub for documentation & version control
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
 ```
 mass-transfer-packed-tower-ml/
 │

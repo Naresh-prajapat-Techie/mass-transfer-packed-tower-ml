@@ -135,7 +135,7 @@ GitHub for documentation & version control
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-
+```
 mass-transfer-packed-tower-ml/
 │
 ├── README.md
@@ -158,7 +158,7 @@ mass-transfer-packed-tower-ml/
 ├── notebooks/                          # Optional notebooks for EDA
 ├── docs/                               # Report, diagrams, presentation
 
-
+```
 ---
 
 <h2><a class="anchor" id="simulation-methodology"></a>Simulation Methodology</h2>
